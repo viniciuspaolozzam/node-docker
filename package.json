@@ -1,0 +1,27 @@
+{
+  "name": "node_docker_simple",
+  "version": "1.0.0",
+  "license": "ISC",
+  "description": "Simple Env - nodejs on docker",
+  "main": "app/app.js",
+  "engines": {
+    "node": ">=6.9.4",
+    "npm": ">=3.10.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:viniciuspaolozzam/project-x.git"
+  },
+  "scripts": {
+    "start": "node app/server.js"
+  },
+  "devDependencies": {
+    "express": "^4.13.3"
+  },
+  "author": "Jozef Butko",
+  "docs": "https://github.com/viniciuspaolozzam/project-x/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/viniciuspaolozzam/project-x/issues"
+  },
+  "homepage": "https://github.com/viniciuspaolozzam/project-x"
+}

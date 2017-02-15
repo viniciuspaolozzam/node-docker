@@ -1,0 +1,24 @@
+{
+  "name": "node_docker_simple",
+  "version": "1.0.0",
+  "authors": [
+    "Vinicius Paolozza <viniciuspaolozza@gmail.com>"
+  ],
+  "description": "Description goes here",
+  "main": "",
+  "license": "ISC",
+  "homepage": "https://github.com/viniciuspaolozzam/project-x",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.13",
+    "angular-route": "~1.3.13",
+    "angular-sanitize": "~1.3.13"
+  }
+}
